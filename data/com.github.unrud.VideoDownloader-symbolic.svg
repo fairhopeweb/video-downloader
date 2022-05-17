@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg height="16px" viewBox="0 0 16 16" width="16px" xmlns="http://www.w3.org/2000/svg">
-    <g fill="#241f31">
-        <path d="m 5 9 h 6 v 2 h -6 z m 0 0"/>
-        <path d="m 8 15 l -6 -5 h 12 z m 0 0"/>
-        <path d="m 5 9 h 3 v -3 h -3 z m 0 0" fill-opacity="0.680048"/>
-        <path d="m 8 9 h 3 v -3 h -3 z m 0 0"/>
-        <path d="m 11 6 h -3 v -3 h 3 z m 0 0" fill-opacity="0.54493"/>
-        <path d="m 8 6 h -3 v -3 h 3 z m 0 0" fill-opacity="0.790004"/>
-        <path d="m 11 3 h -3 v -3 h 3 z m 0 0" fill-opacity="0.321944"/>
-        <path d="m 8 3 h -3 v -3 h 3 z m 0 0" fill-opacity="0.173773"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><g fill="#241f31"><path d="m 5 9 h 6 v 2 h -6 z m 0 0"/><path d="m 8 15 l -6 -5 h 12 z m 0 0"/><path fill-opacity=".68" d="m 5 9 h 3 v -3 h -3 z m 0 0"/><path d="m 8 9 h 3 v -3 h -3 z m 0 0"/><path fill-opacity=".545" d="m 11 6 h -3 v -3 h 3 z m 0 0"/><path fill-opacity=".79" d="m 8 6 h -3 v -3 h 3 z m 0 0"/><path fill-opacity=".322" d="m 11 3 h -3 v -3 h 3 z m 0 0"/><path fill-opacity=".174" d="m 8 3 h -3 v -3 h 3 z m 0 0"/></g></svg>
